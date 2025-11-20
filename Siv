@@ -1,0 +1,27 @@
+<!-- HTML -->
+<a href="https://immortal.rs/?code=MDYxNDUzODEwMzYyMTQzMDI3Nw==" class="custom-button">IMMORTAL SITE</a>
+
+/* CSS */
+
+.custom-button {
+  background-color: #0e0d0e;
+  color: #FFFFFF;
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  text-decoration: none;
+  display: inline-block;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.custom-button:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.custom-button:active {
+  transform: translateY(0);
+}
